@@ -1,2 +1,3 @@
 # bookbot
-This is a mini python project
+BookBot is my first project!
+
